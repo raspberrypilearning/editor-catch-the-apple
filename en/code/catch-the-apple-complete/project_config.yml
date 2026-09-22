@@ -1,4 +1,4 @@
 name: "Catch the Apple completed"
-identifier: "catch-the-apple-complete"
+identifier: "editor-catch-the-apple-complete"
 type: 'python'
-build: false
+build: true
