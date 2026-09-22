@@ -1,4 +1,4 @@
 name: "Catch the Apple starter"
 identifier: "editor-catch-the-apple-starter"
 type: 'python'
-build: false
+build: true
